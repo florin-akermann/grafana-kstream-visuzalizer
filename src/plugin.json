@@ -1,0 +1,38 @@
+{
+  "type": "panel",
+  "name": "kstream-visualizer",
+  "id": "ch-roboinvest-kstream-visualizer",
+  "info": {
+    "description": "kstream-visualization",
+    "author": {
+      "name": "Florin Akermann",
+      "url": ""
+    },
+    "keywords": [
+      "kafka",
+      "kafka-stream",
+      "toplogy"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/simple-react-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/simple-react-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
